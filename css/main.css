@@ -525,7 +525,7 @@ figure figcaption p {
   background-color: #CCC;
 }
 #footer {
-  background: #fff;
+  background: #14496e;
   padding: 25px 0;
   color: #555;
 }
@@ -547,8 +547,12 @@ figure figcaption p {
 }
 #footer .social li a {
   font-size: 22px;
+  color: #fff;
+}
+#footer .social li a :hover{
   color: #02bdd5;
 }
+
 .cd-headline.slide .cd-words-wrapper {
   color: #02bdd5;
 }
